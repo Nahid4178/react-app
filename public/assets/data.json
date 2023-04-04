@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "TECHY STAR",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "../assets/images/455.jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-video-app-eight.vercel.app",
+      "imgSrc": "../assets/images/"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-crypto-app-pi.vercel.app",
+      "imgSrc": "../assets/images/frrf.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "../assets/images/tr.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "../assets/images/hero-img01.jpg"
+    }
+  ]
+}
